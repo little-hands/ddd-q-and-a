@@ -1,7 +1,7 @@
 ### 概要
 本リポジトリは、[@little_hand_s]()が質問を募集・回答している[DDD質問箱](https://peing.net/ja/little_hands)の回答をアーカイブ化するものです。  
 GitHubの[Issue](https://github.com/little-hands/ddd-q-and-a/issues)の仕組みを使用して記録を残していきます。  
-過去の回答はOpen状態のまま蓄積します。
+
 
 ### オススメの見方
 
