@@ -11,8 +11,8 @@ https://github.com/little-hands/ddd-q-and-a/labels
 Labelから辿って行くと、近い内容のトピックを参照することができます。
 
 例:  
-[エンティティ](https://github.com/little-hands/ddd-q-and-a/labels/%E3%82%A8%E3%83%B3%E3%83%86%E3%82%A3%E3%83%86%E3%82%A3)  
-[モデリング](https://github.com/little-hands/ddd-q-and-a/labels/%E3%83%A2%E3%83%87%E3%83%AA%E3%83%B3%E3%82%B0)
+[エンティティ Label](https://github.com/little-hands/ddd-q-and-a/labels/%E3%82%A8%E3%83%B3%E3%83%86%E3%82%A3%E3%83%86%E3%82%A3)  
+[モデリング Label](https://github.com/little-hands/ddd-q-and-a/labels/%E3%83%A2%E3%83%87%E3%83%AA%E3%83%B3%E3%82%B0)
 
 #### 2. キーワード検索で探す
 
