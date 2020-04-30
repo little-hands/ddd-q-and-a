@@ -1,11 +1,11 @@
-### 概要
+## 概要
 本リポジトリは、[@little_hand_s]()が質問を募集・回答している[DDD質問箱](https://peing.net/ja/little_hands)の回答を記録するためのものです。  
 GitHubの[Issue](https://github.com/little-hands/ddd-q-and-a/issues)の仕組みを使用して記録を残していきます。  
 
 
-### オススメの見方
+## オススメの見方
 
-#### 1. Labelから探す  
+### 1. Labelから探す  
 https://github.com/little-hands/ddd-q-and-a/labels  
 各IssueにはLabelが自動で割り振られています。  
 Labelから辿って行くと、近い内容のトピックを参照することができます。
@@ -14,16 +14,16 @@ Labelから辿って行くと、近い内容のトピックを参照すること
 [エンティティ Label](https://github.com/little-hands/ddd-q-and-a/labels/%E3%82%A8%E3%83%B3%E3%83%86%E3%82%A3%E3%83%86%E3%82%A3)  
 [モデリング Label](https://github.com/little-hands/ddd-q-and-a/labels/%E3%83%A2%E3%83%87%E3%83%AA%E3%83%B3%E3%82%B0)
 
-#### 2. キーワード検索で探す
+### 2. キーワード検索で探す
 
 [Issue](https://github.com/little-hands/ddd-q-and-a/issues)ページの検索ボックスから、きになるキーワードを検索してください。
 
-### 追加の質問について
+## 追加の質問について
 回答内容について、もう少し聞きたいことがあれば各Issueにコメントを記載するか、
 [質問箱](https://peing.net/ja/little_hands)からご質問ください。
 
 
-### まとまった情報を読みたい方は
+## まとまった情報を読みたい方は
 
 <a href="https://little-hands.booth.pm/items/1835632">
   <img src="https://i.imgur.com/mvbh0w5.png" width=60% />
